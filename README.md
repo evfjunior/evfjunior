@@ -28,6 +28,7 @@ while (theresLife) {
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NextJS](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=Next.js&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E535AB?style=for-the-badge&logo=graphql&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![MaterialUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -49,5 +50,5 @@ while (theresLife) {
 
 ![Manjaro](https://img.shields.io/badge/Manjaro-34BE5B?style=for-the-badge&logo=manjaro&logoColor=white)
 ![Pop_OS](https://img.shields.io/badge/Pop_OS-04A5AA?style=for-the-badge&logo=popos&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-02569B?style=for-the-badge&logo=vscode&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
