@@ -33,6 +33,9 @@ while (theresLife) {
 ![MaterialUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C63D14?style=for-the-badge&logo=jest&logoColor=white)
+![Testing Library](https://img.shields.io/badge/Testing_Library-DA2E2E?style=for-the-badge&logo=testing-library&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF528C?style=for-the-badge&logo=storybook&logoColor=white)
 
 ##### Databases
 
@@ -42,6 +45,8 @@ while (theresLife) {
 
 ##### Cloud Services
 
+![Github](https://img.shields.io/badge/Github-333333?style=for-the-badge&logo=Github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0747A6?style=for-the-badge&logo=Bitbucket&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFA611?style=for-the-badge&logo=firebase&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
@@ -52,3 +57,7 @@ while (theresLife) {
 ![Pop_OS](https://img.shields.io/badge/Pop_OS-04A5AA?style=for-the-badge&logo=popos&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
+
+##### Get in Touch
+![Protonmail](https://img.shields.io/badge/evfjunior@protonmail.com-505264?&style=for-the-badge&logo=protonmail&logoColor=white)
+![Tutanota](https://img.shields.io/badge/knowledge--base@keemail.me-9F1E20?&style=for-the-badge&logo=Tutanota&logoColor=white)
